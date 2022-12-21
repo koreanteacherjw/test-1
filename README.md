@@ -63,3 +63,9 @@ fetch와 pull
 [이지스퍼블리싱](https://www.easyspub.co.kr)
 
 [이지스퍼블리싱](https://www.easyspub.co.kr, "클릭하면 이지스퍼블리싱 홈페이지로 이동합니다")
+
+## 마크다운 연습
+
+**저장소 이미지** 삽입하기
+
+![프로필 이미지](./f40d26f09a6f86ead2001fc884bc9021.png)
